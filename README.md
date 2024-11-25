@@ -2,10 +2,10 @@
 ## Шаги выполнения
 ---
 ### 1. Создание аккаунта на GitHub
- 
+![](PrtSc/12.png)
 
 ### 2. Fork репозитория
- 
+![](PrtSc/13.png) 
 
 ### 3. Установка Git
 ![](PrtSc/1.png)
@@ -72,6 +72,7 @@ git reset --hard HEAD~1
 ```bash
 git checkout -b report
 ```
+![](PrtSc/11.png)
 
 ### 14. Оформление отчёта
 Скриншоты помещены в папку PrtSc.
